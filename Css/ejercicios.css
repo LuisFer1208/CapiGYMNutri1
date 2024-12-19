@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #b38861;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #6d5643;
+}
+
+strong {
+    font-weight: bold;
+}
+header {
+    background-color: #5f4c3a;
+    padding: 1rem;
+}
+
+nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #000000;
+}
+h1{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
